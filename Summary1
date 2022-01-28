@@ -1,0 +1,28 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Bibliographic Summary 1}
+\author{Ankit Lalotra}
+\date{January 25 2022}
+
+\begin{document}
+
+\maketitle
+
+\section*{AppSamurai}
+{This is a website called AppSamurai. They pretty much teach/ tell you about different ways of how to make an app, what to expect in an app, how to advertise an app. They have pretty good pros and cons list and they explain it all in very deep detail. This week I learned about how to market to your app and what is the best type of content users are looking in a mobile app. 
+
+
+}
+\section*{References}
+{
+
+Reference 
+
+Cansu. “Best Practices of Content for Mobile Apps.” App Samurai | Mobile Advertising Platform, 15 June 2021, https://appsamurai.com/best-practices-of-content-for-mobile-apps/. 
+
+Kubra. “Video Marketing Channels For Your App Promotion.” App Samurai | Mobile Advertising Platform, 8 Sept. 2021, https://appsamurai.com/best-video-marketing-channels-to-promote-your-app/. 
+
+}
+
+\end{document}
