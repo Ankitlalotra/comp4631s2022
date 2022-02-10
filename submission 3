@@ -1,0 +1,28 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Bibliographic Summary 3}
+\author{Ankit Lalotra}
+\date{February 9 2022}
+
+\begin{document}
+
+\maketitle
+
+\section*{Reading}
+{
+    Mobile application security testing can be thought of as a pre-production check to ensure that security controls in an application work as expected, while safeguarding against implementation errors. It can help discover edge cases (that turn into security bugs) that the development team may have not anticipated. The testing process takes into account both code and configuration issues in a production-like environment to ensure that issues are discovered before going live. 
+
+Mobile app security has become equally important in today’s world. A breach in mobile security can not only give hackers access to the user’s personal life in real-time but also disclose data like their current location, banking information, personal information, and much more.
+}
+\section*{References}
+{
+
+Reference 
+
+S, synopsys. “What Is Mobile Application Security and How Does It Work?” Synopsys, https://www.synopsys.com/glossary/what-is-mobile-application-security.html. 
+
+17th, Last Updated on September, et al. “Mobile App Security: A Comprehensive Guide to Secure Your Apps.” AppSealing, 17 Sept. 2021, https://www.appsealing.com/mobile-app-security-a-comprehensive-guide-to-secure-your-apps/. 
+}
+
+\end{document}
