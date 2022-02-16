@@ -1,0 +1,28 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Bibliographic Summary 4}
+\author{Ankit Lalotra}
+\date{February 16 2022}
+
+\begin{document}
+
+\maketitle
+
+\section*{Reading}
+{
+   There is now a considerable risk of attacks on information systems. This risk can be significantly reduced by well-known basic information security and additional IoT-specific security measures. The use of uniform platforms, standards, and reference architectures can drastically reduce the cost of security implementations. Given the expected added value and the considerable risk for directly and indirectly connected IT systems, greater investment in the information security of IoT infrastructures justifies itself.
+
+This article focuses on the security aspects of APIs, which is a crucial part of any API management solution. There are several methods to secure APIs as discussed in this article. WSO2 Microgateway, as a solution for exposing microservices as managed APIs, supports a vast array of security features which can be easily configured to suit the API Security requirements of the organization.
+}
+\section*{References}
+{
+
+Reference 
+
+Andre Nitze ·, Andre, et al. “The Bots Are Coming! - Dzone IOTa.” Dzone.com, 6 Apr. 2020, https://dzone.com/articles/the-bots-are-coming. 
+
+Jayawardena, Menaka. “Securing Apis with WSO2 Microgateway - DZone Security.” Dzone.com, DZone, 15 Apr. 2020, https://dzone.com/articles/securing-apis-with-wso2-microgateway. 
+}
+
+\end{document}
