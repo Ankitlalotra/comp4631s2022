@@ -1,0 +1,28 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Bibliographic Summary 5}
+\author{Ankit Lalotra}
+\date{February 23 2022}
+
+\begin{document}
+
+\maketitle
+
+\section*{Reading}
+{
+To protect sensitive data from the users, developers prefer to store the data in the device local memory. However, it is best practice to avoid storing sensitive data as it might increase the security risk. If you have no other option other than storing the data, better use encrypted data containers or key chain. Additionally, make sure to minimize the log by adding the auto-delete feature, which automatically deletes data after a certain time.
+
+The lack of high-level authentication leads to security breaches. Developers should design the apps in such a way that it only accepts strong alphanumeric passwords. On top of that, it is better to make it mandatory for the users to change their passwords periodically. For extremely sensitive apps, you can strengthen the security with biometric authentication using fingerprints or retina scan. Encouraging the users to ensure authentication would be the recommended way to avoid security breaches.
+
+}
+\section*{References}
+{
+
+Reference 
+
+https://www.clariontech.com/blog/top-8-best-practices-to-develop-secure-mobile-apps
+
+}
+
+\end{document}
