@@ -1,0 +1,28 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Bibliographic Summary 6}
+\author{Ankit Lalotra}
+\date{March 2 2022}
+
+\begin{document}
+
+\maketitle
+
+\section*{Reading}
+{
+Security is always an arms race between attackers and defenders. Since the mobile application market is growing, at the same time, mobile security will continue to deliver a plethora of issues to face. In other words, security is often a matter of balancing risk and reward, defense versus convenience. In this line of thinking, the potential risks and benefits, and their tradeoffs, undoubtedly deserve further and deeper investigation. The outcome of this paper is a holistic picture of this phenomenon, which examines the negative events, conditions and circumstances that have the potential to cause the loss of assets, and the countermeasures that aim to eliminate them and provide adequate and effective protection for a user.
+
+During the World Economic Forum of 2019, the participants came to the conclusion that the past ten years mark only the start of the global cybersecurity journey. New architectures and cooperation are still required as we stand at the brink of a new era of cybercrime, which will be empowered by new and emergent technology. These three technologies, namely, 5G networks and infrastructure convergence, artificial intelligence, and biometrics, are going to define the next ten years of global cybersecurity.
+
+}
+\section*{References}
+{
+
+Reference 
+
+Weichbroth, Paweł, and Łukasz Łysik. “Mobile Security: Threats and Best Practices.” Mobile Information Systems, Hindawi, 7 Dec. 2020, https://www.hindawi.com/journals/misy/2020/8828078/. 
+
+}
+
+\end{document}
