@@ -1,0 +1,25 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Bibliographic Summary 7}
+\author{Ankit Lalotra}
+\date{March 16 2022}
+
+\begin{document}
+
+\maketitle
+
+\section*{Reading}
+{
+When analyzing an individual device for security implications, one should take into account each of the layers of the mobile security stack and determine the effectiveness of the security mechanisms that are in place. At each layer determine what, if any, security mechanisms and mitigation's the manufacturer has implemented and if those mechanisms are sufficient for the type of data you plan to store and access on the device. In addition to the individual layers of the stack, enumeration of the transitions between layers can yield disclosure of additional risk. Of special interest is communication of secure data upward on the stack. Your organization may choose to implement an aftermarket package for strong encryption of data at rest on the device, but if that data is transmitted in clear text protocols at the infrastructure layer the effectiveness of the higher layer mechanisms is significantly diminished. Depending on the risk tolerance of your organization you may find that a particular brand or model of mobile device does not have an adequate security model for the sensitivity of the data that you plan to access. This model is by no means an all encompassing model. There are still areas to be flushed out and detailed in order for the model to be actionable in today's corporate environment. Use the comments section below to voice your thoughts and opinions and let's move this model into something practical.
+
+}
+\section*{References}
+{
+
+Reference 
+
+Goslin, Hope, et al. “Identifying the Mobile Security Stack.” Veracode, 24 Mar. 2011, https://www.veracode.com/blog/2011/03/identifying-the-mobile-security-stack. 
+}
+
+\end{document}
