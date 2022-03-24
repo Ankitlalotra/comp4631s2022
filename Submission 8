@@ -1,0 +1,31 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Bibliographic Summary 8}
+\author{Ankit Lalotra}
+\date{March 23 2022}
+
+\begin{document}
+
+\maketitle
+
+\section*{Reading}
+{
+            Development and deployment for mobile application  
+Make sure it passes all the deployment tests. If you write an end-to-end unit and integration tests, make sure to check their output. Make them work anyhow.
+Rebuild your application – Sometimes when obfuscating code on Android, developers use ProGuard, which can sometimes remove code, leading to app crash. Make sure you don’t shrink the code at the cost of usability.
+If you already own a server, set up your CI flow using Jerkins, Bitrise, CircleCI, Travis, or Bitbucket Pipelines.
+It is also essential that you perform static code analysis using Lint, ktlint, pmd, checkstyle, findbugs, detekt, gradle-static-analysis-plugin, OCLint, tailor, Swiftlint, Clang Static Analyzer, Infer, Swift Format, Swimat, or FauxPas.
+Prepare a product version of your mobile app and release it for internal testing. Try to use crash reporting tools like Instabug or Fabric.
+Preparing builds can be automated as well. For example, tools like Fastlane can help you automate screenshots, beta deployment, App Store / Google Play deployment, and code signing.
+Monitoring engagement will help you discover user insights. You can integrate tools like Google Analytics, Fabric, Amazon Pinpoint, Mixpanel to discover active users, session intervals, time spent using the app, ScreenFlow, retention, conversion, and lifetime value.
+}
+\section*{References}
+{
+
+Reference 
+cell, Open. “Mobile App Development - Step by Step Guide for 2021 and Beyond.” OpenXcell, 30 Nov. 2021, https://www.openxcell.com/mobile-app-development/. 
+
+}
+
+\end{document}
