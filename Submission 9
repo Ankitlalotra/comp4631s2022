@@ -1,0 +1,27 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Bibliographic Summary 9}
+\author{Ankit Lalotra}
+\date{March 30 2022}
+
+\begin{document}
+
+\maketitle
+
+\section*{Reading}
+{
+Always remember, security isn’t something that you can construct like a building and forget about later. You need to proactively and comprehensively monitor and assess the security policies and methods.
+
+A robust, reliable, and self-remediating security posture results from consistent efforts and is gradually achieved as you deploy and understand the security measures over time. Implementing and managing these security measures across your business network is nothing short of a Herculean task. 
+
+So, be patient and develop your security strategy step by step. 
+}
+\section*{References}
+{
+
+Reference 
+Agarwal, Harshit. “Mobile App Security Threats and Ways to Mitigate Them.” Learn Hub, https://learn.g2.com/mobile-app-security. 
+}
+
+\end{document}
