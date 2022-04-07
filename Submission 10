@@ -1,0 +1,32 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Bibliographic Summary 10}
+\author{Ankit Lalotra}
+\date{April 6 2022}
+
+\begin{document}
+
+\maketitle
+
+\section*{Reading}
+{
+The weak crypto was also used by the researchers to bypass FIDO2 WebAuthn, a way to use public-key cryptography, instead of passwords, to register for and authenticate to websites. Their proof-of-concept attack allowed the researchers to authenticate themselves to a website protected by the Android StrongKey application. What's more, they also managed to bypass Google's Secure Key Import, designed to let servers share keys securely with Android devices.
+
+In all, the researchers estimate 100 million Samsung devices were vulnerable when they identified the encryption flaw last year. However, they responsibly disclosed their findings to Samsung in May 2021, which led to the August 2021 assignment of CVE-2021-25444 to the vulnerability, and a patch for affected devices. In July 2021, they revealed their downgrade attack, which led in October 2021 to CVE-2021-25490 and a patch that removed the legacy blob implementation (v15) from devices including the S10, S20, and S21. 
+
+Topics also addresses one of the biggest issues with FLoC by not only preventing ad providers from knowing which sites users have browsed, but also from leaking more information than the current third-party cookie system by enabling marketers identify users through other means like IP address and log their cohort participation over time.
+
+Google said its goal with Privacy Sandbox on Android is to create "privacy enhancing advertising solutions, where users know their information is protected, and developers and businesses have the tools to succeed on mobile."
+}
+
+\section*{References}
+{
+
+Reference 
+Claburn, Thomas. “Samsung Shipped '100m' Android Phones with Flawed Encryption.” The Register® - Biting the Hand That Feeds IT, The Register, 23 Feb. 2022, https://www.theregister.com/2022/02/23/samsung_encryption_phones/?&amp;web_view=true. 
+
+Laksamana, Ravie. “Google Bringing Privacy Sandbox to Android to Limit Sharing of User Data.” The Hacker News, 18 Feb. 2022, https://thehackernews.com/2022/02/google-bringing-privacy-sandbox-to.html?&amp;web_view=true. 
+}
+
+\end{document}
