@@ -1,0 +1,31 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Bibliographic Summary 11}
+\author{Ankit Lalotra}
+\date{April 13 2022}
+
+\begin{document}
+
+\maketitle
+
+\section*{Reading}
+{
+Mobile App Backend Development means the development that occurs at the server-side. The backend is a necessary part of a mobile app that stores, secures, and processes the data. A backend app is like a server for the users to sort the required information. One can say that it refers to the activities that happen behind the scenes when you are performing a task on an app. This could be logging in to your account or playing a movie online.
+
+The normal financial plans for versatile application ventures have actualized as of late have been between 30,000 dollars for littler arrangements and in excess of 2 million dollars for complex huge scope ventures.
+
+The best Mobile App advancement organization consistently prescribes its clients to design the venture costs as well as the running expenses of an application after Go Live in a decent time.
+
+Notwithstanding the expenses for activity and backing, endeavors for the further improvement of the application and the variation to new arrivals of the working frameworks changed libraries or new end gadgets will likewise be considered. Nothing is more terrible according to clients than an application that is obviously and observably obsolete without the most recent innovation.
+}
+
+\section*{References}
+{
+
+Reference 
+Team, OS. “What Is Backend and How to Choose the Best Mobile App Backend for Your Application?” OS, 6 May 2021, https://os-system.com/blog/what-is-backend-and-how-to-choose-the-best-mobile-app-backend-for-your-application/.  
+Xcell, Open. “App Development Cost India: How Much Does It Cost to Make an App 2020.” OpenXcell, 2 Dec. 2021, https://www.openxcell.com/blog/app-development-cost/. 
+}
+
+\end{document}
