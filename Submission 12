@@ -1,0 +1,26 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Bibliographic Summary 12}
+\author{Ankit Lalotra}
+\date{April 20 2022}
+
+\begin{document}
+
+\maketitle
+
+\section*{Reading}
+{
+creating secure mobile applications boils down to education and resolve. Developers need to take the time to learn about secure application development and the common vulnerabilities and security weaknesses that creep into applications. Only by incorporating security into their development process—whether through secure design review of third-party libraries, or the simple step of obfuscating the resulting code—can programmers create applications that do not empower attackers, but resist them.
+
+One positive trend that the Veracode study found was that application scanning makes a big difference when it comes to fix rate and time to fix for application flaws. Overall fix rates, especially for high-severity flaws, are improving. The overall fix rate is 56, up from 52 in 2018, and the highest severity flaws are fixed at a rate of 75.7. A DevSecOps approach with frequent scanning and testing of software will drive down the time to fix flaws. Median time to repair for applications scanned 12 times or fewer per year was 68 days, while an average scan rate of daily or more lowered that rate to 19 days.
+}
+
+\section*{References}
+{
+
+Reference 
+Lemos, Rob. “Mobile Apps: 6 Ways to Eliminate the Most Common Security #Fails.” TechBeacon, TechBeacon, 22 Jan. 2019, https://techbeacon.com/security/6-ways-eliminate-most-common-security-fails-mobile-apps. 
+}
+
+\end{document}
