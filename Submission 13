@@ -1,0 +1,28 @@
+\documentclass{article}
+\usepackage[utf8]{inputenc}
+
+\title{Bibliographic Summary 13}
+\author{Ankit Lalotra}
+\date{April 27 2022}
+
+\begin{document}
+
+\maketitle
+
+\section*{Reading}
+{
+Even though new devices come up every day, the fundamentals of testing use almost the same logic for both mobile and desktop testing.
+In spite of all these similarities, there could be differences in some point of view. Comparing to desktop testing, mobile software testing seems to be much difficult as they need to test configurations, work on screen size, storage limitations etc.
+To safeguard your data and maintain cybersecurity have a robust and high-level cybersecurity posture assessment in place. This is going to act as a barrier for your product, assets, and organizations. Start making your strategy today and make your organization risk free.
+
+}
+
+\section*{References}
+{
+
+Reference 
+Bytes, Test. “Different Types of Mobile Application Testing.” Testbytes, 21 Mar. 2022, https://www.testbytes.net/blog/types-of-mobile-application-testing/.  
+Bytes, Test. What Is Security Posture Assessment? - Testbytes. https://www.testbytes.net/blog/what-is-security-posture-assessment/. 
+}
+
+\end{document}
